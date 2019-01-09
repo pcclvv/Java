@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Comparator;
 import java.util.HashMap;
-
+####
 public class HEncoder {
 
 	public HashMap<Character, String> encoder = new HashMap<>(); // in order to encode
